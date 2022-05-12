@@ -728,7 +728,7 @@ fetch(url)
   .catch(error =>  console.log(error.message))*/
 
 
-  /*let student = {
+  let student = {
 	firstname: "Mehran",
 	lastname: "Tarif",
 	age: 23,
@@ -752,6 +752,4 @@ fetch(url)
 
 // console.log(student.fullname())
 // student.sayHello()
-student.showFields();*/
-
-
+student.showFields();
